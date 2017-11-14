@@ -1,1 +1,1 @@
-koa-template
+games-panel
